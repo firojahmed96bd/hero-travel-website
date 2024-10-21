@@ -212,6 +212,10 @@ p{
     filter: brightness(70%);
 }
 
+.destination-container p{
+    width: 600px;
+    margin: 1rem auto;
+}
 .row-1,
 .row-2,
 .row-3{
